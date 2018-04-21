@@ -1,1 +1,1 @@
-worker: node music.js
+echo "worker: node music.js" > Procfile
