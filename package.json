@@ -1,7 +1,7 @@
 {
   "name": "music",
   "version": "1.0.0",
-  "main: "music.js"
+  "main: "music.js",
   "scripts": {
     "start": "node music.js"
 },
