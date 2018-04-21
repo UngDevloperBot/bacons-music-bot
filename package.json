@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "simple-youtube-api": "^5.0.1",
+    "ytdl-core": "^0.20.2"
+  }
+}
