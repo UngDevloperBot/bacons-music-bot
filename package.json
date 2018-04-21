@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "version": "",
+  "name": "music",
+  "version": "1.0.0",
   "dependencies": {
     "simple-youtube-api": "^5.0.1",
     "ytdl-core": "^0.20.2"
