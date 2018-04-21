@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main: "music.js"
   "scripts": {
-    "scripts": {
-      "start": "node music.js"
+    "start": "node music.js"
 },
   "dependencies": {
     "simple-youtube-api": "^5.0.1",
