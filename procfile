@@ -1,0 +1,1 @@
+worker: music.js
