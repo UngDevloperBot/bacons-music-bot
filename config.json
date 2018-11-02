@@ -1,5 +1,5 @@
 {
  "PREFIX" : "m!",
- "" : ""
+ "GOOGLE_API_KEY" : "process.env.google"
  "" : ""
 }
